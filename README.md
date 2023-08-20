@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @danielpedrovs
-- 👀 I have a good creativity and i can develop the most innovative programs;
-- 🌱 My programs is based in Java, HTML, CSS, JavaScript, spring Boot, Javascript, React;
-- 💞️ I’m looking to collaborate on projects for back-end and front-end;
-- 📫 How to reach me  I have my linkedin: linkedin.com/in/danielpedrosousa;
+👋 Hi there, I'm @danielpedrovs, fancy a chinwag?
+🧠 Got a spot of creative flair, and I whip up the most top-notch programs, I do.
+🌱 My code's all Java, HTML, CSS, JavaScript, Spring Boot, a dash of React – the whole kit and caboodle!
+💞️ I'm up for a bit of teaming up on backend and frontend shindigs, fancy a go?
+📫 Fancy a natter? Catch me on LinkedIn: linkedin.com/in/danielpedrosousa!
+
+In productions, will realease soon brand new websites:
+visoux.com;
+thermalDiets;
+dielandCO;
+
+
 
 <!---
 danielpedrovs/danielpedrovs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
