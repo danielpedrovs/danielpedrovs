@@ -1,4 +1,4 @@
-👋 Hi there, I'm @danielpedrovs, fancy a chinwag?
+👋 Hi there, I'm @danielpedrovs, I work in the construction sector and I'm also studying in computer science.
 
 🧠 Got a spot of creative flair, and I whip up the most top-notch programs, I do.
 
@@ -9,9 +9,8 @@
 📫 Fancy a natter? Catch me on LinkedIn: linkedin.com/in/danielpedrosousa!
 
 In productions, will realease soon brand new websites:
-visoux.com;
-thermalDiets;
-dielandCO;
+everodecor.uk
+
 
 
 
