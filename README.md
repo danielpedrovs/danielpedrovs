@@ -1,4 +1,4 @@
-👋 Hi there, I'm @danielpedrovs, I work in the construction sector and I'm also studying in computer science.
+👋 Hi there, I'm @danielpedrovs, I work in the construction sector and I'm also studying computer science.
 
 🧠 Got a spot of creative flair, and I whip up the most top-notch programs, I do.
 
@@ -6,7 +6,7 @@
 
 💞️ I'm up for a bit of teaming up on backend and frontend shindigs, fancy a go?
 
-📫 Fancy a natter? Catch me on LinkedIn: linkedin.com/in/danielpedrosousa!
+📫 Fancy a natter?  
 
 In productions, will realease soon brand new websites:
 everodecor.uk
