@@ -6,8 +6,6 @@
 
 💞️ I'm up for a bit of teaming up on backend and frontend shindigs, fancy a go?
 
-📫 Fancy a natter?  
-
 In productions, will realease soon brand new websites:
 everodecor.uk
 
