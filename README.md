@@ -1,15 +1,10 @@
-👋 Hi there, I'm @danielpedrovs, I work in the construction sector and I'm also studying computer science.
+👋 Hi there, I'm @danielpedrovs, I'm also studying computer science.
 
-🧠 Got a spot of creative flair, and I whip up the most top-notch programs, I do.
+🧠 I have developed a website everodecor for my company where i have achieved a valuation and converted customers to revenue.
 
-🌱 My code's all Java, HTML, CSS, JavaScript, Spring Boot, NodeJs a dash of React – the whole kit and caboodle!
+🌱 My code's all Java, HTML, CSS, JavaScript, Spring Boot, NodeJs a dash of React.
 
-💞️ I'm up for a bit of teaming up on backend and frontend shindigs, fancy a go?
-
-In productions, will realease soon brand new websites:
-everodecor.uk
-
-
+💞️ I'm up for a bit of teaming up on backend and frontend shindigs.
 
 
 <!---
